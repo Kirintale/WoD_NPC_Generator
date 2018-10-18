@@ -1,0 +1,87 @@
+[b]Name:[/b]
+
+[b]Player:[/b]
+
+[b]Nature: [/b]
+
+[b]Demeanor:[/b]
+
+[b]Concept:[/b]
+
+[b]Date of Birth: [/b]
+
+[b]Physical:[/b]
+
+strength: 2
+dexterity: 4
+stamina: 2
+
+[b]Social: [/b]
+charisma: 2
+manipulation: 2
+apperance: 2
+
+[b]Mental:[/b]
+perception: 2
+intelligence: 2
+wits: 3
+
+[b]Talents:[/b]
+Alertness: 2
+Athletics: 2
+Awareness: 0
+Brawl: 0
+Empathy: 0
+Expression: 0
+Intimidation: 0
+Leadership: 0
+Streetwise: 3
+Subterfuge: 0
+
+[b]Skills:[/b]
+crafts: 0
+drive: 0
+etiquette: 0
+firearms: 4
+larceny: 2
+melee: 0
+performance: 0
+stealth: 3
+survival: 2
+
+[b]Knowledges:[/b]
+Academics: 0
+Computer: 0
+Investigation: 3
+Law: 0
+Medicine: 1
+Occult: 0
+Science: 0
+finance: 0
+politics: 0
+technology: 0
+[b]Backgrounds:[/b]
+
+Allies: 0
+Alternate Identity: 0
+Backup: 0
+Contacts: 4
+Fame: 0
+Influence: 0
+Laboratory: 0
+Library: 0
+Mentor: 0
+Requisitions: 0
+Resources: 2
+Retainers: 0
+Spies: 0
+[b]Willpower:[/b]
+
+[b]Merits:[/b]
+
+[b]Flaws:[/b]
+
+[b]Owned Equipment:[/b]
+
+[b]Carried Equipment:[/b]
+

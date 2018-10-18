@@ -1,0 +1,94 @@
+[b]Name:[/b]
+
+[b]Player:[/b]
+
+[b]Nature: [/b]
+
+[b]Demeanor:[/b]
+
+[b]Concept:[/b]
+
+[b]Date of Birth: [/b]
+
+[b]Physical:[/b]
+
+strength: 2
+dexterity: 2
+stamina: 2
+
+[b]Social: [/b]
+charisma: 2
+manipulation: 2
+apperance: 3
+
+[b]Mental:[/b]
+perception: 3
+intelligence: 2
+wits: 3
+
+[b]Talents:[/b]
+Alertness: 1
+Athletics: 0
+Awareness: 3
+Brawl: 0
+Empathy: 0
+Expression: 3
+Intimidation: 0
+Leadership: 0
+Streetwise: 0
+Subterfuge: 0
+
+[b]Skills:[/b]
+crafts: 3
+drive: 0
+etiquette: 0
+firearms: 0
+larceny: 0
+melee: 1
+performance: 0
+stealth: 0
+survival: 0
+
+[b]Knowledges:[/b]
+Academics: 0
+Computer: 0
+Investigation: 2
+Law: 0
+Medicine: 2
+Occult: 4
+Science: 2
+finance: 0
+politics: 0
+technology: 0
+[b]Backgrounds:[/b]
+
+Allies: 0
+Alternate Identity: 0
+Black Hand Membership: 0
+Contacts: 0
+Domain: 0
+Fame: 0
+Generation: 4
+Herd: 0
+Influence: 0
+Mentor: 0
+Resources: 2
+Retainers: 0
+Rituals Sabbat: 0
+[b]Disciplines:[/b]
+
+Dominate: 2
+Auspex: 2
+Thaumaturgy: 0
+[b]Willpower:[/b]
+
+[b]Merits:[/b]
+
+[b]Flaws:[/b]
+
+[b]Owned Equipment:[/b]
+
+[b]Carried Equipment:[/b]
+
+Remaining knowledges points: 1
+

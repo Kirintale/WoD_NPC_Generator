@@ -1,0 +1,101 @@
+[b]Name:[/b]
+
+[b]Player:[/b]
+
+[b]Nature: [/b]
+
+[b]Demeanor:[/b]
+
+[b]Concept:[/b]
+
+[b]Date of Birth: [/b]
+
+[b]Physical:[/b]
+
+strength: 2
+dexterity: 2
+stamina: 2
+
+[b]Social: [/b]
+charisma: 2
+manipulation: 2
+apperance: 3
+
+[b]Mental:[/b]
+perception: 2
+intelligence: 2
+wits: 4
+
+[b]Talents:[/b]
+Alertness: 1
+Athletics: 3
+Awareness: 2
+Brawl: 0
+Empathy: 0
+Expression: 0
+Intimidation: 0
+Leadership: 0
+Streetwise: 0
+Subterfuge: 1
+
+[b]Skills:[/b]
+Meditation: 0
+crafts: 1
+drive: 0
+etiquette: 2
+firearms: 1
+larceny: 0
+melee: 0
+performance: 0
+stealth: 0
+survival: 0
+
+[b]Knowledges:[/b]
+Academics: 0
+Computer: 0
+Cosmology: 1
+Enigmas: 1
+Investigation: 0
+Law: 0
+Medicine: 0
+Occult: 3
+Science: 3
+Technology: 3
+[b]Backgrounds:[/b]
+
+Allies: 0
+Alternate Identity: 0
+Arcane: 0
+Avatar: 2
+Contacts: 2
+Destiny: 0
+Dream: 0
+Fame: 0
+Influence: 0
+Library: 0
+Node: 0
+Resources: 2
+Retainers: 0
+Wonder: 0
+[b]Spheres:[/b]
+
+Matter: 3
+Prime: 1
+Mind: 0
+Life: 0
+Correspondence: 0
+Entropy: 0
+Time: 0
+Forces: 1
+Spirit: 0
+[b]Willpower:[/b]
+
+[b]Merits:[/b]
+
+[b]Flaws:[/b]
+
+[b]Owned Equipment:[/b]
+
+[b]Carried Equipment:[/b]
+
+
